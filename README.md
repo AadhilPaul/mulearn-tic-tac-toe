@@ -18,7 +18,7 @@ A simple **Tic-Tac-Toe game built with React** as part of a μLearn SNGCE commun
 ## 🚀 Getting Started
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AadhilPaul/mulearn-tic-tac-toe.git
 cd mulearn-tic-tac-toe
 npm install
 npm run dev
